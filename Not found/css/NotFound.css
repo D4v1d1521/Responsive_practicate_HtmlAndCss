@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+}
+.error{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 30px;
+    
+}
+.title{
+    font-size: 64px;
+}
+.pageContent{
+    font-size: 24px;
+}
+
+button{
+    width: 216px;
+    height: 68px;
+    background-color: black;
+    color: white;
+}
+img{
+    width: 100%;
+    
+}
+.container{
+    margin-top: 20px;
+    font-family: space 'Courier New', Courier, monospace;
+    
+}
+
